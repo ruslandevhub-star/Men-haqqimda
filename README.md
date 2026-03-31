@@ -23,7 +23,7 @@
 
 ## 🛠 Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,github,vscode," />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </div>
 
 <br/>
